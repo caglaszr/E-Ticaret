@@ -89,6 +89,7 @@ header {
 
 .header-right .bi-person {
   font-size: 23px;
+  cursor: pointer;
 }
 
 .header-right .toggle-button {
@@ -102,6 +103,7 @@ header {
 
 .header-right .header-cart {
   position: relative;
+  cursor: pointer;
 }
 
 .header-right .header-cart-link .header-cart-count {
